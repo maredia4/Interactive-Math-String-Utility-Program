@@ -1,1 +1,2 @@
 # Interactive-Math-String-Utility-Program
+This C++ program lets you choose from a menu to calculate factorials, create number pyramids, add even/odd numbers, and reverse strings using different types of loops.
